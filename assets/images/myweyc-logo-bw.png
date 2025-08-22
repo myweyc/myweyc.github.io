@@ -1,0 +1,7 @@
+title: "MyWeyC Blog"
+description: "Thoughts, stories & ideas"
+author: myweyc
+theme: minima
+logo: /assets/images/myweyc-logo-bw.png
+minima:
+  skin: custom
